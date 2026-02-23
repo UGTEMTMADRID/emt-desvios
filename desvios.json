@@ -1,8 +1,8 @@
 [
   {
     "linea": "116",
-    "dias": ["LUNES"],
-    "hora_inicio": 1,
+    "dias": ["LUNES", "MARTES"],
+    "hora_inicio": 0,
     "hora_fin": 18,
     "mensaje": "Línea desviada por mercadillo de Orcasitas",
     "mensaje_conduccion": "Desvio por Av. Orcasur, Salvador Martinez, su ruta",
