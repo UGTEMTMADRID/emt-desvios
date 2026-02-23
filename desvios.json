@@ -5,7 +5,7 @@
     "hora_inicio": 7,
     "hora_fin": 16,
     "mensaje": "Línea desviada por mercadillo de Orcasitas",
-    "mensaje_conduccion": "Siga la ruta en color rojo",
+    "mensaje_conduccion": "Siga la ruta en color azul",
 
     "coordenadas_ida": [
       [40.35548, -3.71200],
