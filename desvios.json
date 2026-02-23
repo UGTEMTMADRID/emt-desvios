@@ -1,19 +1,19 @@
 [
   {
     "linea": "116",
-    "dias": ["DOMINGO"],
-    "hora_inicio": 7,
-    "hora_fin": 16,
+    "dias": ["LUNES"],
+    "hora_inicio": 1,
+    "hora_fin": 18,
     "mensaje": "Línea desviada por mercadillo de Orcasitas",
-    "mensaje_conduccion": "Siga la ruta en color azul",
+    "mensaje_conduccion": "Desvio por Av. Orcasur, Salvador Martinez, su ruta",
 
     "coordenadas_ida": [
-      [40.35548, -3.71200],
-      [40.35480, -3.71350],
-      [40.35400, -3.71400],
-      [40.35350, -3.71380],
-      [40.35200, -3.71250],
-      [40.35100, -3.71100]
+      [40.36701, -3.70147],
+      [40.36689, -3.70065],
+      [40.36725, -3.70045],
+      [40.36752, -3.70013],
+      [40.36733, -3.69873],
+      [40.36716, -3.69777]
     ],
 
     "coordenadas_vuelta": [
