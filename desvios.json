@@ -1,8 +1,8 @@
 [
   {
     "linea": "116",
-    "dias": ["SABADO"],
-    "hora_inicio": 7,
+    "dias": ["SABADO", "Miercoles"],
+    "hora_inicio": 1,
     "hora_fin": 16,
     "mensaje": "Línea desviada por mercadillo de Orcasitas 7:30 - 16:00",
     "mensaje_conduccion": "Continua la linea AZUL para evitar el corte",
