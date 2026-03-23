@@ -93,7 +93,7 @@
     "hora_fin": "23:00",
     "mensaje": "Linea desviada por corte",
     "mensaje_conduccion": "Continua la linea azul",
-    "sentido_ida": "Tirso de molina - Orcasitas",
+    "sentido_ida": "Orcasitas",
     "coordenadas_ida": [
       [
         40.4082637,
@@ -188,7 +188,7 @@
         -3.6991096
       ]
     ],
-    "sentido_vuelta": "Orcasitas - Tirso de molina",
+    "sentido_vuelta": "Tirso de molina",
     "coordenadas_vuelta": []
   }
 ]
