@@ -299,10 +299,10 @@
       "55"
     ],
     "dias": [
-      "MARTES"
+      "DOMINGO"
     ],
-    "hora_inicio": "10:00",
-    "hora_fin": "20:00",
+    "hora_inicio": "20:00",
+    "hora_fin": "22:00",
     "mensaje": "Linea desviada por acto",
     "mensaje_conduccion": "Continua la linea marcada en azul",
     "sentido_ida": "ATOCHA → CARABANCHEL ALTO",
