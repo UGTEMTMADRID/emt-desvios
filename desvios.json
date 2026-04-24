@@ -515,8 +515,8 @@
     ],
     "hora_inicio": "21:00",
     "hora_fin": "23:00",
-    "mensaje": "Linea en pruebas",
-    "mensaje_conduccion": "",
+    "mensaje": "Prueba de linea",
+    "mensaje_conduccion": "Continua el trazado azul",
     "sentido_ida": "EMBAJADORES → VILLAVERDE CRUCE",
     "coordenadas_ida": [
       [
