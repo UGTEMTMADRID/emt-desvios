@@ -1419,7 +1419,8 @@
       ]
     ],
     "sentido_vuelta": "ARGÜELLES → PUERTA DE TOLEDO",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
