@@ -867,7 +867,8 @@
       ]
     ],
     "sentido_vuelta": "PLAZA CASTILLA → EMBAJADORES",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
