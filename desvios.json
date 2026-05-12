@@ -1554,7 +1554,7 @@
         -3.6926937
       ]
     ],
-    "activo": false
+    "activo": true
   },
   {
     "lineas": [
@@ -1787,6 +1787,7 @@
       ]
     ],
     "sentido_vuelta": "ORCASITAS → TIRSO DE MOLINA",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   }
 ]
