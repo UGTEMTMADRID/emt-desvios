@@ -717,7 +717,8 @@
       ]
     ],
     "sentido_vuelta": "PIO XII → CONDE DE CASAL",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
@@ -866,7 +867,8 @@
       ]
     ],
     "sentido_vuelta": "PLAZA CASTILLA → EMBAJADORES",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
