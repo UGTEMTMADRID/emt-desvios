@@ -375,8 +375,7 @@
         40.3672326,
         -3.7031275
       ]
-    ],
-    "activo": false
+    ]
   },
   {
     "lineas": [
@@ -513,8 +512,7 @@
       ]
     ],
     "sentido_vuelta": "MONCLOA → ESTACION DE ATOCHA",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -635,8 +633,7 @@
         40.4188505,
         -3.6936271
       ]
-    ],
-    "activo": false
+    ]
   },
   {
     "lineas": [
@@ -717,8 +714,7 @@
       ]
     ],
     "sentido_vuelta": "PIO XII → CONDE DE CASAL",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -867,8 +863,7 @@
       ]
     ],
     "sentido_vuelta": "PLAZA CASTILLA → EMBAJADORES",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -1029,8 +1024,7 @@
         40.4190057,
         -3.6936539
       ]
-    ],
-    "activo": false
+    ]
   },
   {
     "lineas": [
@@ -1127,8 +1121,7 @@
         40.4195733,
         -3.6924362
       ]
-    ],
-    "activo": false
+    ]
   },
   {
     "lineas": [
@@ -1265,8 +1258,7 @@
       ]
     ],
     "sentido_vuelta": "REINA VICTORIA → LEGAZPI",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -1419,8 +1411,7 @@
       ]
     ],
     "sentido_vuelta": "ARGÜELLES → PUERTA DE TOLEDO",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -1553,8 +1544,7 @@
         40.4187933,
         -3.6926937
       ]
-    ],
-    "activo": false
+    ]
   },
   {
     "lineas": [
@@ -1667,8 +1657,7 @@
       ]
     ],
     "sentido_vuelta": "AEROPUERTO → ESTACION DE ATOCHA",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   },
   {
     "lineas": [
@@ -1787,7 +1776,6 @@
       ]
     ],
     "sentido_vuelta": "ORCASITAS → TIRSO DE MOLINA",
-    "coordenadas_vuelta": [],
-    "activo": false
+    "coordenadas_vuelta": []
   }
 ]
