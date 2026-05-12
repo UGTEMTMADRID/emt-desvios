@@ -1667,7 +1667,8 @@
       ]
     ],
     "sentido_vuelta": "AEROPUERTO → ESTACION DE ATOCHA",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
