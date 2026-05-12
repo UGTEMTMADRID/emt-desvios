@@ -1265,7 +1265,8 @@
       ]
     ],
     "sentido_vuelta": "REINA VICTORIA → LEGAZPI",
-    "coordenadas_vuelta": []
+    "coordenadas_vuelta": [],
+    "activo": false
   },
   {
     "lineas": [
