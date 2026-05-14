@@ -1663,7 +1663,13 @@
       "116"
     ],
     "dias": [
-      "MIERCOLES"
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES",
+      "SABADO",
+      "DOMINGO"
     ],
     "hora_inicio": "7:00",
     "hora_fin": "20:00",
