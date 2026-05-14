@@ -1789,8 +1789,8 @@
     ],
     "hora_inicio": "00:00",
     "hora_fin": "23:59",
-    "mensaje": "Linea desviada por San Isidro, continua el recorrido Azul",
-    "mensaje_conduccion": "",
+    "mensaje": "Linea desviada por San Isidro",
+    "mensaje_conduccion": "Continua el trazado azul",
     "sentido_ida": "PLAZA ESPAÑA → CASA DE CAMPO",
     "coordenadas_ida": [
       [
