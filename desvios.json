@@ -2518,7 +2518,8 @@
     "lineas": [
       "c2",
       "32",
-      "26"
+      "26",
+      "10.14"
     ],
     "dias": [
       "LUNES",
@@ -2533,7 +2534,7 @@
     "hora_fin": "23:59",
     "mensaje": "linea desviada en paseo infanta isabel",
     "mensaje_conduccion": "continua por ciudad de barcelona, sigue la linea naranja",
-    "sentido_ida": "CIRCULAR 2 → CIRCULAR 2",
+    "sentido_ida": "CONDE DE CASAL → PIO XII",
     "coordenadas_ida": [
       [
         40.4068137,
@@ -2560,7 +2561,7 @@
         -3.6822116
       ]
     ],
-    "sentido_vuelta": "CIRCULAR 2 → CIRCULAR 2",
+    "sentido_vuelta": "PIO XII → CONDE DE CASAL",
     "coordenadas_vuelta": [],
     "activo": true
   }
