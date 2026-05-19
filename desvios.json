@@ -2513,5 +2513,55 @@
       ]
     ],
     "activo": false
+  },
+  {
+    "lineas": [
+      "c2",
+      "32",
+      "26"
+    ],
+    "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES",
+      "SABADO",
+      "DOMINGO"
+    ],
+    "hora_inicio": "00:00",
+    "hora_fin": "23:59",
+    "mensaje": "linea desviada en paseo infanta isabel",
+    "mensaje_conduccion": "continua por ciudad de barcelona, sigue la linea naranja",
+    "sentido_ida": "CIRCULAR 2 → CIRCULAR 2",
+    "coordenadas_ida": [
+      [
+        40.4068137,
+        -3.6892068
+      ],
+      [
+        40.4064052,
+        -3.6883485
+      ],
+      [
+        40.4061683,
+        -3.6873722
+      ],
+      [
+        40.4049755,
+        -3.682909
+      ],
+      [
+        40.4067483,
+        -3.6834347
+      ],
+      [
+        40.4068954,
+        -3.6822116
+      ]
+    ],
+    "sentido_vuelta": "CIRCULAR 2 → CIRCULAR 2",
+    "coordenadas_vuelta": [],
+    "activo": true
   }
 ]
