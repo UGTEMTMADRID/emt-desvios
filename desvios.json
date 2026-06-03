@@ -2740,5 +2740,86 @@
       ]
     ],
     "activo": true
+  },
+  {
+    "lineas": [
+      "60",
+      "55"
+    ],
+    "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES",
+      "SABADO",
+      "DOMINGO"
+    ],
+    "hora_inicio": "00:00",
+    "hora_fin": "23:59",
+    "mensaje": "desvio por obra en guadalete",
+    "mensaje_conduccion": "sigue la linea naranja",
+    "sentido_ida": "PLAZA CEBADA → ORCASITAS",
+    "coordenadas_ida": [
+      [
+        40.3896472,
+        -3.7130785
+      ],
+      [
+        40.3889812,
+        -3.7139153
+      ],
+      [
+        40.389071,
+        -3.7145752
+      ],
+      [
+        40.3891037,
+        -3.7147093
+      ],
+      [
+        40.3890833,
+        -3.7147844
+      ],
+      [
+        40.3890138,
+        -3.7148702
+      ],
+      [
+        40.3889648,
+        -3.7149453
+      ],
+      [
+        40.3889526,
+        -3.7150419
+      ],
+      [
+        40.3889771,
+        -3.7152565
+      ],
+      [
+        40.3890506,
+        -3.7155354
+      ],
+      [
+        40.3891895,
+        -3.7162328
+      ],
+      [
+        40.3881885,
+        -3.7165546
+      ],
+      [
+        40.387073,
+        -3.7169248
+      ],
+      [
+        40.3865337,
+        -3.7170857
+      ]
+    ],
+    "sentido_vuelta": "ORCASITAS → PLAZA CEBADA",
+    "coordenadas_vuelta": [],
+    "activo": true
   }
 ]
